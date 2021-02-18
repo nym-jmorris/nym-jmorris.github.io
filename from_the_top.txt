@@ -1,2 +1,8 @@
 This file originated on github.  Does it end up in my local folder?  
 Is this cloning?
+
+It came down!  What a miracle! 
+
+What happens when I try to push it up?
+
+(as I own the rep and am publishing to main, I suspect it will overwrite...)
