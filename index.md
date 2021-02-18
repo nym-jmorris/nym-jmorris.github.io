@@ -1,5 +1,10 @@
 hello!
 
-does this change anything?
+Welcome one of my little corners of the internet.
 
-do I still need to login?  Or has this passed?
+I'm still getting my legs under me when it comes to pretty much everything, but 
+these days I'm trying to learn git and python.  
+
+I think I'm getting the faintest hang of things.
+
+Thanks for stopping by!
