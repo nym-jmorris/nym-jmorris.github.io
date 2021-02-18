@@ -1,0 +1,2 @@
+This file originated on github.  Does it end up in my local folder?  
+Is this cloning?
